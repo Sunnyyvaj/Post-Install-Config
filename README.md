@@ -102,6 +102,16 @@ Another note. We can add/give permissions to the agents by looking at the tabs c
 So I will go ahead and add worker one to level II support team, while also giving them access as system adminnistrators.
 ![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/6477d840-4286-46a8-bc86-c0645f1c2c28)
 
+
+This step we will be adding in users. So to do that we will need to click in the upper right corner where it says Agent. Once we do that we can click on the small tab that says "users".
+In the 2nd image we can click on "add user". In this case we will create two users. You can name them whatever you want. In the 3rd image as you can see I just filled out that section and once I was done I added the user and now we have created one user.
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/cad4185f-5975-4c5f-8812-a6fc4972f16a)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/1bdec025-7860-4eb6-a96e-a3b28518721c)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/a2b505c1-1bb1-4f1a-8e72-9837768ae1f5)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/58114248-d8b1-4676-91e0-7fd9996ab8f0)
+
+
+
 </p>
 <p>
 
