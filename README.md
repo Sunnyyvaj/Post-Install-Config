@@ -70,6 +70,18 @@ Now we are in the same section as before. We just have to click on the "teams" t
 ![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/33115914-214d-4df6-8368-c4ade7e14188)
 
 
+In the image above it already has a team called level 1 support. In this case we will create a level 2 support team in the image below.
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/ae3ab896-d400-4eae-b9ab-75c909e211f5)
+
+
+This part of the guide. We will pretend to give allowence to anyone to create tickets. So in the image below we will click on the settings tab and once the tab is open. We will click on the "User's box."
+
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/ca394b67-1459-48a3-9ed9-1e2ad829f02f)
+
+
+As you can see in the image below. To allow everyone to create a ticket, we would have to uncheck the box called "Registration Required". After that is done everyone will be able to create any tickets they want.
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/7bf65708-c1f3-47ae-8305-fb344e170094)
+
 
 
 </p>
