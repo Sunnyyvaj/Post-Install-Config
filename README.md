@@ -114,6 +114,17 @@ In the 2nd image we can click on "add user". In this case we will create two use
 
 SLA are basically a time table for when tickets needs to get done. So for example a ticket that needs help with resetting their password could take maybe 4 hours or during business hours. In this step we will be creating SLA. To start creating SLA, we will need to go into our admin profile and click on the manage tab. Once there we will click on the small tab called "SLA".
 ![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/0012fad2-00b8-4ca9-be01-8b2dd4c3c767)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/c4dee3ce-b8fb-451a-a229-7a30420bc1b2)
+
+
+In this step I am creating SLA which would be called Sev-A, Sev-B, and Sev-C. These are important to so that us help desk employees can keep track of which tickets needs the quickest attention.
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/7c08ad6b-7e9b-4006-9b57-4a9327c806d4)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/d042e97e-019f-49a3-82b3-87a273eb9a2f)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/aa77d441-fac4-4a06-9eb7-0d9354725f80)
+
+
+
+
 
 </p>
 <p>
