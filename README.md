@@ -123,6 +123,15 @@ In this step I am creating SLA which would be called Sev-A, Sev-B, and Sev-C. Th
 ![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/aa77d441-fac4-4a06-9eb7-0d9354725f80)
 
 
+Along with creating SLA. We will also be creating help topics, just in case anybody doesn't know where to ask for help. They can come to the help topic and send a ticket for whatver catorgory is under help topics. The images below are a few examples of what various help topics can be found. Some help topics may include notes and some help topics may not include notes.
+
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/7446f531-0e52-4cae-8374-767013d4996c)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/97d7f5e2-ae61-4bc0-a293-cce62bdef6f6)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/e5928801-49fd-490d-9e41-29f8d8cad2ef)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/62323661-72b9-4005-98c7-1ba60be09e80)
+
+
+
 
 
 
