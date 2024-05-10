@@ -56,14 +56,18 @@ Now in the 2nd image below. We will check everybox in every tab to give permissi
 
 
 
-In this next step. We will be creating departments. So in the same tab section where you saw the word "roles" there should be another word called "department". We can click on that and move forward with the next step. In the 2nd image below we will click on the button "add new department." **Just a side note, there will be preloaded departments already, so don't mind that and just create a new department.** In the 3rd picture below, you'll see that there is a lot to do, but the main things we will focus on is naming the department and giving it a manager. **In this case you don't need to give it a new manage, since you're already the manager**
+In this next step. We will be creating departments. So in the same tab section where you saw the word "roles" there should be another word called "department". We can click on that and move forward with the next step. In the 2nd image below we will click on the button "add new department." **Just a side note, there will be preloaded departments already, so don't mind that and just create a new department.** In the 3rd picture below, you'll see that there is a lot to do, but the main things we will focus on is naming the department and giving it a manager. **In this case you don't need to give it a new manage, since you're already the manager** So now that we have given the department a new name we can just click the finished button and move onto creating "teams."
 
 
 
 ![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/084b3850-aaed-4ba9-a769-cf51ab644de8)
 ![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/fcc54c1f-c4b7-4665-b6c9-f3af132bbca8)
 ![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/941c2f70-6db2-4cec-a59d-5833bd6d86c5)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/a53cd366-ad4f-4d08-bac7-398b0d75c5c3)
 
+
+Now we are in the same section as before. We just have to click on the "teams" tab and you'll see the same image as shown below. We will also click on the "add team" button to create a new team. Teams can be created for example the first group of teams would be dedicated to important tickets that needs to be done within the day. Another team example would be a team that focused on tickets that has a low importance.
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/33115914-214d-4df6-8368-c4ade7e14188)
 
 
 
@@ -75,10 +79,10 @@ In this next step. We will be creating departments. So in the same tab section w
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
