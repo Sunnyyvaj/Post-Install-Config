@@ -84,6 +84,24 @@ As you can see in the image below. To allow everyone to create a ticket, we woul
 
 
 
+The next step is to create some agents. They will act as IRL employees to handle any tickets that comes through osTicket. 
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/744d1bf9-395a-4886-9318-6bda42e081bc)
+
+
+So in the 1st image below. We can create one or two agents. Either one is up to you, and you can also name those agents however you want. But in this case I will name my agents Worker one and Worker two.
+In the 2nd image below you can see that I have already created one of my agents. Now we have to set up a password for them, which essentially creates a login for them. In the 3rd image, we have created a password for the agent. Make sure to uncheck the first box and the last box and hit the button "set".
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/e0d2ba62-2ccc-465a-9ad5-9641daf1a6d2)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/083a1e9d-6748-42c0-b7de-ad5ccafc7a6e)
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/de169ab6-966f-4b8a-893c-6aaee7a0b6c7)
+
+
+**This will also be the same step to create agent 2.**
+
+
+Another note. We can add/give permissions to the agents by looking at the tabs called "Access","Permissions",and "Teams"
+So I will go ahead and add worker one to level II support team, while also giving them access as system adminnistrators.
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/6477d840-4286-46a8-bc86-c0645f1c2c28)
+
 </p>
 <p>
 
@@ -99,9 +117,9 @@ As you can see in the image below. To allow everyone to create a ticket, we woul
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
