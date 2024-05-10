@@ -21,19 +21,26 @@ This tutorial outlines the post-install configuration of the open-source help de
 
 <h2>Post-Install Configuration Objectives</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+- Configure Roles
+- Configure Departments
+- Configure Teams
+- Configure Agents(Workers)/Users(Customers)
+- Configure SLA/Help Topics
 
 <h2>Configuration Steps</h2>
 
 <p>
-<img"/>
+
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/c2633bf8-b84b-43e9-9d81-7906c127ecb8)
+
+In the image above. It will show you the main page for yourself, but if you clicked on the word "admin" right next to your name it will show a different screen, which will be shown in the picture below.
+
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/e15834f0-6124-417d-9ac5-82f094faf3f3)
+
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
 </p>
 <br />
 
