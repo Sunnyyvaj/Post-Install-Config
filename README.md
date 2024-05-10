@@ -112,6 +112,8 @@ In the 2nd image we can click on "add user". In this case we will create two use
 ![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/ccaa4a59-9b9d-4f2c-9fab-5ef334761922)
 
 
+SLA are basically a time table for when tickets needs to get done. So for example a ticket that needs help with resetting their password could take maybe 4 hours or during business hours. In this step we will be creating SLA. To start creating SLA, we will need to go into our admin profile and click on the manage tab. Once there we will click on the small tab called "SLA".
+![image](https://github.com/Sunnyyvaj/Post-Install-Config/assets/165757391/0012fad2-00b8-4ca9-be01-8b2dd4c3c767)
 
 </p>
 <p>
